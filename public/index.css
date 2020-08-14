@@ -6,7 +6,7 @@ body {
     
 }
 
-#root {
+.container {
     width: 1440px;
     height: 768px;
     background: linear-gradient(180deg, #0837B0 0%, #021E66 100%);
@@ -29,7 +29,7 @@ body {
     align-items: center;
 }
 
-#counter {
+.counter-field h1 {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
